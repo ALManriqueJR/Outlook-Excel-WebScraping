@@ -9,5 +9,6 @@ https://outlook.com/
 CHECKED:
 https://acme-test.uipath.com/first-automation
 
-<img width="707" height="419" alt="image" src="https://github.com/user-attachments/assets/1298c691-da38-4cc9-9486-07727d952c23" />
+<img width="1056" height="470" alt="{93B012FF-FAE3-477D-AE9A-B2989619DDA0}" src="https://github.com/user-attachments/assets/4ecbd217-47ff-4b3d-84e7-a65c6348659b" />
+
 
