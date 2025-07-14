@@ -1,0 +1,43 @@
+# Pastas geradas pelo UiPath Studio que geralmente não devem ser versionadas
+.local/
+.screenshots/
+.settings/
+.objects/
+.tmh/
+
+# Arquivos de log e outros arquivos temporários
+*.log
+*.zip
+*.nupkg
+*.publish
+
+# Pastas de dependências de pacotes
+packages/
+
+# Ignorar o diretório "obj" que pode ser gerado em alguns cenários de build
+obj/
+
+# Arquivos de cache e de usuário
+User.config
+*.cache
+
+# Pastas de backup (se existirem)
+Backup/
+
+# Arquivos relacionados a dados sensíveis ou específicos do ambiente
+# Considere adicionar arquivos que contenham credenciais ou configurações específicas do seu ambiente local
+# Exemplo: data.json (se contiver dados sensíveis)
+# data.json
+
+# Arquivos de configurações do Visual Studio ou outros IDEs (se usados em conjunto)
+.vs/
+*.suo
+*.user
+*.pdb
+*.pidb
+*.vshost.*
+*.aps
+*.bsc
+*.sbr
+*.resharper
+*.bak
